@@ -1,4 +1,4 @@
-package Iniciante.ArraysEGC;
+package Java.Iniciante.ArraysEGC;
 
 public class Main {
     static void main() {

@@ -1,4 +1,4 @@
-package Iniciante.TiposDeDadosDesafioUm;
+package Java.Iniciante.TiposDeDadosDesafioUm;
 
 public class Main {
     public static void main(String[] args) {

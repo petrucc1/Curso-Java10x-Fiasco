@@ -1,4 +1,4 @@
-package Iniciante.SwitchCases;
+package Java.Iniciante.SwitchCases;
 
 import java.util.Scanner;
 

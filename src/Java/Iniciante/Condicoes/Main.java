@@ -1,4 +1,4 @@
-package Iniciante.Condicoes;
+package Java.Iniciante.Condicoes;
 
 public class Main {
     public static void main(String[] args) {

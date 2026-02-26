@@ -1,4 +1,4 @@
-package Iniciante.CadastroDeNinjasDesafioDois;
+package Java.Iniciante.CadastroDeNinjasDesafioDois;
 
 import java.util.Scanner;
 

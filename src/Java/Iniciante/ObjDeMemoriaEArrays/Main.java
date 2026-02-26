@@ -1,4 +1,4 @@
-package Iniciante.ObjDeMemoriaEArrays;
+package Java.Iniciante.ObjDeMemoriaEArrays;
 
 public class Main {
     static void main() {

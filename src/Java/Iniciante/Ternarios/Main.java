@@ -1,4 +1,4 @@
-package Iniciante.Ternarios;
+package Java.Iniciante.Ternarios;
 
 public class Main {
     static void main() {

@@ -1,4 +1,4 @@
-package Iniciante.ArraysDeRefEMultidimensionais;
+package Java.Iniciante.ArraysDeRefEMultidimensionais;
 
 public class Main {
     static void main() {

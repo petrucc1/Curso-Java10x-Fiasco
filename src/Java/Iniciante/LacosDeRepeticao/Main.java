@@ -1,4 +1,4 @@
-package Iniciante.LacosDeRepeticao;
+package Java.Iniciante.LacosDeRepeticao;
 
 public class Main {
     static void main() {
