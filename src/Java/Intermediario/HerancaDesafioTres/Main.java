@@ -1,4 +1,4 @@
-package Java.Intermediario.DesafioTres;
+package Java.Intermediario.HerancaDesafioTres;
 
 public class Main {
     static void main(String[] args) {

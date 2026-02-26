@@ -1,4 +1,4 @@
-package Java.Intermediario.DesafioTres;
+package Java.Intermediario.HerancaDesafioTres;
 
 public class Uchiha extends Ninja {
     String habilidadeEspecial;

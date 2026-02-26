@@ -1,4 +1,4 @@
-package Java.Intermediario.DesafioTres;
+package Java.Intermediario.HerancaDesafioTres;
 
 public class Ninja {
     String nome;
