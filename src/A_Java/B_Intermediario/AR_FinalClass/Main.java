@@ -12,5 +12,10 @@ public class Main {
         naruto.tacarKunai();
         // Não será possível alterar valor porque o atributo é 'final'
         System.out.println(naruto.altura);
+
+        // Objeto Anbu
+        Anbu ninjaAnbu = new Anbu();
+        ninjaAnbu.nome = "Ninja Anbu";
+        System.out.println(ninjaAnbu.nome);
     }
 }

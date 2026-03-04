@@ -1,5 +1,6 @@
 package A_Java.B_Intermediario.AR_FinalClass;
 
+// Não consigo criar objetos a partir de classes abstratas, mas classes abstratas podem ser estendidas
 public abstract class Ninja implements EstrategiaDeBatalha {
     String nome;
     String aldeia;
