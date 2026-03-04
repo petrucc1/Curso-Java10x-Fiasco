@@ -1,0 +1,6 @@
+- Criar conta corrente e conta poupança
+- Permitir ao usuário escolher entre uma das duas
+- Mostrar opções adicionais a partir do tipo de conta escolhida
+- Pensar nas condicionais e na ordem dos fatores antes de continuar
+- Verificar como implementar taxa de depósito
+-  Não irei usar o Enum, devo pesquisar mais sobre
